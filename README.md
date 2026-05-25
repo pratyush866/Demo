@@ -1,2 +1,2 @@
-# Demo
-This is Demo for Git &amp; Github class
+# To-Do-List
+This is to-do-list for Git &amp; Github class
